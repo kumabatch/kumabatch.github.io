@@ -73,6 +73,8 @@ You can add notification, warning and error boxes like this:
 
 {: .box-note}
 **Note:** This is a notification box.
+balan
+balana
 
 ### Warning
 
