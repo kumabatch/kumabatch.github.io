@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: List Komik 
+---
 <ul id="id01">
   <li>Oslo</li>
   <li>Stockholm</li>
