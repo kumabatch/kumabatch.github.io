@@ -78,7 +78,7 @@ You can add notification, warning and error boxes like this:
 
 {: .box-warning}
 **Warning:** This is a warning box.
-balana
+
 ### Error
 
 {: .box-error}
