@@ -13,7 +13,8 @@ author: Neko
 
 **<em>kuma batch  | Download Batch Manhwa Voidman Bahasa Indonesia –</em>** Di dunia pasca-apokaliptik yang diperintah oleh para dewa,Didorong oleh keinginan untuk membalaskan dendam keluarganya, yang dibunuh oleh seorang Dewa, dia terjun ke jurang kematian.“Wahai Void, pinjamkan aku kekuatanmu,Kekuatan untuk membunuh para dewa…!”
 
-<h1>DETAIL KOMIK</h1>
+##DETAIL KOMIK
+
 | Alternative | ❑ Voidman  ❑ 보이드맨 |
 | Type | Manhwa |
 | Status | Ongoing |
@@ -33,6 +34,5 @@ Jika ada file rusak, salah ataupun link download mati silahkan komen di halaman 
 {: .box-note}
 Jika ingin request series favorit kalian disediakan batchnya silahkan komen di Laman [Request](https://kumabatch.github.io/request/)
 
-Chapter 01 - 10
-
+Chapter 01 - 10<br>
 <a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106514580/kumabatch-void-man-01-10-pdf" rel="nofollow" target="_blank" title="Acefile">Acefile</a> 
