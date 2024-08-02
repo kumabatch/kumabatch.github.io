@@ -37,4 +37,4 @@ Mohon Dibaca!</h2>
 </div>
 
 Chapter 01 - 10<br>
-<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106524210/kumabatch-return-of-the-genius-player-chapter-11-20-zip">Acefile</a></li>
+<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106524210/kumabatch-return-of-the-genius-player-chapter-11-20-zip">Acefile</a>
