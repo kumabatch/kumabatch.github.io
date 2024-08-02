@@ -35,7 +35,7 @@ Mohon Dibaca!</h2>
 </div>
 
 Chapter 01 - 10<br>
-<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106523135/kumabatch-ja-di-kas-ir-chapter-01-10-pdf">Acefile</a></li>
+<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106523135/kumabatch-ja-di-kas-ir-chapter-01-10-pdf">Acefile</a>
 
 Chapter 11 - 20<br>
-<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106523153/kumabatch-magical-realm-shopkeeper-chapter-11-20-zip">Acefile</a></li>
+<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106523153/kumabatch-magical-realm-shopkeeper-chapter-11-20-zip">Acefile</a>
