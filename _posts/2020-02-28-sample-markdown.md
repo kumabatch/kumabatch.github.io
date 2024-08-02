@@ -1,97 +1,38 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Voidman Batch Bahasa Indonesia 
+alternative_titles: 보이드맨
+tags: [Manhwa, Action, Drama, Fantasy, Seinen, Ongoing]
+permalink: voidman-batch-bahasa-indonesia
 comments: true
 mathjax: true
-author: Bill Smith
+author: Neko
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+<div style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4KCPKTNdsq1cURrBq1YGew8G7iYqRuSTAlWms082EpKc2oub7xJiFP5DsUtjIi6v10-IlDd2xoIrHM5vAz-WO8-RANJUqpj-NmBbF4KxIRYn26-Gcz_yCrkxZszzFuTMsrzImK23fhUnxOlDqsd9U-TLMQprrrmRLkoIPHhCMdbppSzQQhFdQwYHuQvJM/s608/Voidman-VOLUME-001-HEADER.jpg" style="clear: left; margin-bottom: 1em;"><img border="0" data-original-height="608" data-original-width="420" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4KCPKTNdsq1cURrBq1YGew8G7iYqRuSTAlWms082EpKc2oub7xJiFP5DsUtjIi6v10-IlDd2xoIrHM5vAz-WO8-RANJUqpj-NmBbF4KxIRYn26-Gcz_yCrkxZszzFuTMsrzImK23fhUnxOlDqsd9U-TLMQprrrmRLkoIPHhCMdbppSzQQhFdQwYHuQvJM/s320/Voidman-VOLUME-001-HEADER.jpg" width="221" /></a></div><br>
 
-**Here is some bold text**
+**<em>kuma batch  | Download Batch Manhwa Voidman Bahasa Indonesia –</em>** Di dunia pasca-apokaliptik yang diperintah oleh para dewa,Didorong oleh keinginan untuk membalaskan dendam keluarganya, yang dibunuh oleh seorang Dewa, dia terjun ke jurang kematian.“Wahai Void, pinjamkan aku kekuatanmu,Kekuatan untuk membunuh para dewa…!”
 
-## Here is a secondary heading
-
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
-
-Here's a table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
+<h1>DETAIL KOMIK</h1>
+| Alternative | ❑ Voidman  ❑ 보이드맨 |
+| Type | Manhwa |
+| Status | Ongoing |
+| Genre | Action, Drama, Fantasy, Seinen |
+| Author | Han Geon Hee |
+| Artist | Han Geon Hee |
+| Rating | 7.00 |
+| Released | 2024 |
+| Credit | Komik Lovers |
 
 {: .box-note}
-**Note:** This is a notification box.<br>
-balan
-balana
+**Note:** 
+{: .box-note}
+Direkomendasikan menggunakan aplikasi [ComicSreen<](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) bagi pengguna android untuk membaca manga yang sudah kalian download.
+{: .box-note}
+Jika ada file rusak, salah ataupun link download mati silahkan komen di halaman [Lapor](https://kumabatch.github.io/lapor/)
+{: .box-note}
+Jika ingin request series favorit kalian disediakan batchnya silahkan komen di Laman [Request](https://kumabatch.github.io/request/)
 
-### Warning
+Chapter 01 - 10
 
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106514580/kumabatch-void-man-01-10-pdf" rel="nofollow" target="_blank" title="Acefile">Acefile</a> 
