@@ -13,6 +13,7 @@ title: List Komik
 
 ## H
  - [Healing Life Through Camping in Another World](https://kumabatch.github.io/healing-life-through-camping-in-another-world-batch-bahasa-indonesia)
+
 ## M
  - [Magical Realm Shopkeeper](https://kumabatch.github.io/magical-realm-shopkeeper-batch-bahasa-indonesia)
 
