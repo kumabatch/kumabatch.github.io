@@ -2,5 +2,5 @@
 layout: page
 title: List Komik
 ---
-##V##
+##V
  - Voidman: "https://kumabatch.github.io/aboutme"
