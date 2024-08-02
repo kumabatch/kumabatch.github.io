@@ -11,6 +11,8 @@ title: List Komik
 ## E
  - [Expelled Hero is Too Strong](https://kumabatch.github.io/expelled-hero-is-too-strong-batch-bahasa-indonesia)
 
+## H
+ - [Healing Life Through Camping in Another World](https://kumabatch.github.io/healing-life-through-camping-in-another-world-batch-bahasa-indonesia)
 ## M
  - [Magical Realm Shopkeeper](https://kumabatch.github.io/magical-realm-shopkeeper-batch-bahasa-indonesia)
 
