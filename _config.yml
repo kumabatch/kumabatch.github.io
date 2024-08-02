@@ -34,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHeMmx63wMUav2g4_Ogg2mUstN7CPbBHjR3QuRh-LMJ7E_OcccdpKWQ1726VRE0RNQ9ESWJe5pFrGOuj8YVk997chuMqLis3RjcfIwa2WXIm1DgLAwcs11L9ISo3r71CFmgRG85piFh1TdYUgcnir7mMDpJgCEwnE62jhAiH5_ukH-yQqRKUNzShaViK_U/s1024/daniel-cesar-cake-henituse-sharp-2.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
