@@ -3,7 +3,7 @@ layout: post
 title: Expelled Hero is Too Strong Batch Bahasa Indonesia 
 tags: [Manhwa, Ongoing, Action, Adventure, Drama, Fantasy, Shounen]
 permalink: expelled-hero-is-too-strong-batch-bahasa-indonesia
-cover-img: "hapus"
+cover-img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir_VsHsW1aMtwkn6-BZ2WpoBBr_8MWTGVscx4Sp7elGksGEoT5MUwooqj0HKcBZY75QLrv-1VXTFGr6fBT7jYk1_EVzHgkFE6r5535uQnaY786GK-L_uCJ8xuSt-e6UzJaJP6t9GWECI7t1NdjrlNx-mEO0WnQ-UOxGTmqnwL64dXRLTVZrlJw8p9uInRk/s608/Expelled-Hero-is-Too-Strong-VOLUME-001-HEADER.jpg"
 comments: true
 mathjax: true
 author: Neko
