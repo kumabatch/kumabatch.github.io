@@ -5,7 +5,7 @@ title: List Komik
 ## A
  - [Apocalyptic Chef Awakening](https://kumabatch.github.io/apocalyptic-chef-awakening-batch-bahasa-indonesia)
 ## E
- -[Expelled Hero is Too Strong Batch Bahasa Indonesia](https://kumabatch.github.io/expelled-hero-is-too-strong-batch-bahasa-indonesia)
+ - [Expelled Hero is Too Strong Batch Bahasa Indonesia](https://kumabatch.github.io/expelled-hero-is-too-strong-batch-bahasa-indonesia)
 
 ## M
  - [Magical Realm Shopkeeper](https://kumabatch.github.io/magical-realm-shopkeeper-batch-bahasa-indonesia)
