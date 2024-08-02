@@ -40,8 +40,8 @@ layout: base
       {% endif %}
 
       <div class="blog-post">
-        {{ content }}
         {% include advertisements.html %}
+        {{ content }}
       </div>
 
       {% if page.tags.size > 0 %}
