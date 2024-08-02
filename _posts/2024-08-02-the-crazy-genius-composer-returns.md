@@ -10,7 +10,7 @@ author: Neko
 ---
 
 
-**_kumabatch.eu.org | Download Batch Manhwa The Crazy Genius Composer Returns Bahasa Indonesia –_** Sukses, kehormatan, keluarga… Min Hyun-seung, bla bla bla.. alah kelamaan.. baca ae lah…pokoknya regresi.
+**<em>kumabatch.eu.org | Download Batch Manhwa The Crazy Genius Composer Returns Bahasa Indonesia –</em>** Sukses, kehormatan, keluarga… Min Hyun-seung, bla bla bla.. alah kelamaan.. baca ae lah…pokoknya regresi.
 
 ## DETAIL KOMIK
 
