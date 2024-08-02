@@ -38,5 +38,5 @@ Mohon Dibaca!</h2>
 Chapter 01 - 10<br>
 <a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106515456/kumabatch-the-cra-zy-gen-ius-com-poser-ret-urns-chapter-01-10-zip">Acefile</a>
 
-Chapter 1 - 20<br>
+Chapter 11 - 20<br>
 <a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106515482/kumabatch-the-cra-zy-gen-ius-com-poser-ret-urns-chapter-11-20-zip">Acefile</a>
