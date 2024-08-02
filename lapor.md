@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lapor Links
+comments: true
 ---
 <h2><b>LAPOR LINK MATI/ERROR/EXPIRED HARUS SESUAI FORMAT ATAU ADMIN AKAN SKIP/DELETE KOMEN KALIAN.</b></h2>
 <h3>contoh format:</h3>
