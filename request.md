@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Request
+comments: true
 ---
 <h2>Request Manga/Manhwa/Manhua dan Light Novel</h2>
 <h3>Contoh Request Manga/Manhua/Manhwa</h3>
