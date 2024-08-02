@@ -36,6 +36,5 @@ Mohon Dibaca!</h2>
 </ul>
 </div>
 
-
 Chapter 01 - 10<br>
 <a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106539968/kumabatch-apocalyptic-chef-awakening-chapter-01-10-pdf">Acefile</a></li>
