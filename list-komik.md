@@ -5,6 +5,9 @@ title: List Komik
 ## A
  - [Apocalyptic Chef Awakening](https://kumabatch.github.io/apocalyptic-chef-awakening-batch-bahasa-indonesia)
 
+## C
+ - [Catastrophic Priest](https://kumabatch.github.io/catastrophic-priest-batch-bahasa-indonesia)
+
 ## E
  - [Expelled Hero is Too Strong](https://kumabatch.github.io/expelled-hero-is-too-strong-batch-bahasa-indonesia)
 
