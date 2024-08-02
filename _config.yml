@@ -25,6 +25,8 @@ navbar-links:
     - Manga: "tags/#Manga"
     - Manhwa: "tags/#Manhwa"
     - manhua: "tags/#Manhua"
+  Lapor: "lapor"
+  Request: "request"
 
 ################
 # --- Logo --- #
