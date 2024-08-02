@@ -1,9 +1,6 @@
-
 ---
 layout: page
-title: List Komik 
+title: List Komik
 ---
 <h2>V</h2>
-<ul>
-  <li><a href="https://google.com">Voidman</a></li>
-</ul>
+ - Voidman "https://kumabatch.github.io/aboutme"
