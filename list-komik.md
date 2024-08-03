@@ -16,12 +16,17 @@ title: List Komik
 
 ## M
  - [Magical Realm Shopkeeper](https://kumabatch.github.io/magical-realm-shopkeeper-batch-bahasa-indonesia)
+ - [My Lover's Personality Is a Little Strange](https://kumabatch.github.io/my-lovers-personality-is-a-little-strange-batch-bahasa-indonesia)
 
 ## R
  - [Return of the Genius Player](https://kumabatch.github.io/return-of-genius-player-batch-bahasa-indonesia)
 
+## S
+ -[Sword Rises: Wind and Cloud](https://kumabatch.github.io/sword-rises-wind-and-cloud-batch-bahasa-indonesia)
+ 
 ## T
  - [The Crazy Genius Composer Returns](https://kumabatch.github.io/the-crazy-genius-composer-returns-batch-bahasa-indonesia)
+ - [The Heavenly Demon Will Give You a Massage](https://kumabatch.github.io/the-heavenly-demon-will-give-you-a-massage-batch-bahasa-indonesia)
 
 ## V
  - [Voidman](https://kumabatch.github.io/voidman-batch-bahasa-indonesia)
