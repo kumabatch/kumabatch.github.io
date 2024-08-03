@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sword Rises: Wind and Cloud Batch Bahasa Indonesia 
+title: Sword Rises Wind and Cloud Batch Bahasa Indonesia 
 tags: [Manhwa, Ongoing, Action, Drama, Fantasy, Historical, Martial Arts, Shounen]
 permalink: sword-rises-wind-and-cloud-batch-bahasa-indonesia
 cover-img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU9z8Ue-8_kc29lc-ftAQfusANly_GultQXcpLIyTudQPVQGYO2PyJ2uwl-5E2uO6kTt6jZrUv0vwJo_tZHwLNwfr2CGvw7z3WHRCEwFhUVzEOoUIaIRrOjfOi58wsh0MCsjW-ckorF51D54peVjaH-lHJtg_4fpZ6o_iXmFA1yIZVh0iJ1kE6SygZ4ea6/s1600/Sword-Rises-Wind-and-Cloud-VOLUME-001-HEADER.jpg"
