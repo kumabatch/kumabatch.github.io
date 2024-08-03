@@ -14,6 +14,9 @@ title: List Komik
 ## H
  - [Healing Life Through Camping in Another World](https://kumabatch.github.io/healing-life-through-camping-in-another-world-batch-bahasa-indonesia)
 
+## I
+ - [I Created an Urban Legend!](https://kumabatch.github.io/i-created-an-urban-legend-batch-bahasa-indonesia)
+
 ## M
  - [Magical Realm Shopkeeper](https://kumabatch.github.io/magical-realm-shopkeeper-batch-bahasa-indonesia)
  - [My Lover's Personality Is a Little Strange](https://kumabatch.github.io/my-lovers-personality-is-a-little-strange-batch-bahasa-indonesia)
