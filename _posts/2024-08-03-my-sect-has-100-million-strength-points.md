@@ -3,7 +3,7 @@ layout: post
 title: My Sect Is 100 Million Points Stronger Batch Bahasa Indonesia 
 tags: [Manhua, Ongoing, Action, Drama, Fantasy, Historical, Martial Arts, Shounen]
 permalink: my-sect-has-100-million-strength-points-batch-bahasa-indonesia
-cover-img: "https://mangadex.org/covers/e5b1b58d-e1eb-43fd-a36a-6e5785526196/3c288706-c295-455b-b8f3-66f426587efa.jpg"
+cover-img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGPU-EjpoLASwxbD4zDe6CKVvFteuFCVi1TtzAVj11r3ZbwOcAhYCHT9Y0R4btPUy1tYJgVzjMon5NEyhnC9FtZfoRBOB967SvTzAYQBC3NlpgMPJAOrhvNOXEWu9a_QHtAu1EDds9gh7dC1U0kyYQhuCo0WYcu4MY3CrddSbZjGp80YONKqM0fkT5xpRN/s400/3c288706-c295-455b-b8f3-66f426587efa.jpg"
 comments: true
 mathjax: true
 author: Neko
