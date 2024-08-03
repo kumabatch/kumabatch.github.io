@@ -22,7 +22,7 @@ title: List Komik
  - [Return of the Genius Player](https://kumabatch.github.io/return-of-genius-player-batch-bahasa-indonesia)
 
 ## S
- -[Sword Rises: Wind and Cloud](https://kumabatch.github.io/sword-rises-wind-and-cloud-batch-bahasa-indonesia)
+ - [Sword Rises: Wind and Cloud](https://kumabatch.github.io/sword-rises-wind-and-cloud-batch-bahasa-indonesia)
  
 ## T
  - [The Crazy Genius Composer Returns](https://kumabatch.github.io/the-crazy-genius-composer-returns-batch-bahasa-indonesia)
