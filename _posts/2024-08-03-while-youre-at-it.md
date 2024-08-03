@@ -39,3 +39,6 @@ Mohon Dibaca!</h2>
 
 Chapter 01 - 10<br>
 <a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106555530/kumabatch-while-youre-at-it-chapter-01-10-zip">Acefile</a>
+
+Chapter 11 - 20<br>
+<a href="https://acefile.co/f/106559253/kumabatch-while-youre-at-it-chapter-11-20-zip">Acefile</a>
