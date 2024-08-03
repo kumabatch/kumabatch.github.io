@@ -39,4 +39,5 @@ Mohon Dibaca!</h2>
 Chapter 01 - 10<br>
 <a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106539968/kumabatch-apocalyptic-chef-awakening-chapter-01-10-pdf">Acefile</a>
 
+Chapter 11 - 20<br>
 <a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106551996/kumabatch-apo-caly-ptic-ch-ef-awa-ken-ing-chapter-01-10-zip">Acefile</a>
