@@ -3,7 +3,7 @@ layout: post
 title: While You’re at It Batch Bahasa Indonesia 
 tags: [Manhwa, Ongoing, Drama, Josei, Romance ]
 permalink: while-youre-at-it-batch-bahasa-indonesia
-cover-img: "https://mangadex.org/covers/d6afaa3a-af35-42cc-8ee9-cb8790fd9f5d/9b1bda95-8c31-4d1b-a08f-016ca870d4cd.jpg"
+cover-img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg05YYsLGYKln-bfWaqPJIjLXfC9nsDLj_Rl9bEseVsPu5uwGTgSSYenyhep5zO9y-bGRGNA1VMCripZfTPetD29-d5gmjcfJvqZOLaUrBeLiy5bSQDs7uDhhWpYNsbE3_pNujO8dMU6tHGD8CfaYSRaZMiZ8rDQwzodpXA1hhwmZNfKKdA36sU_0gulDIj/s1000/9b1bda95-8c31-4d1b-a08f-016ca870d4cd.jpg"
 comments: true
 mathjax: true
 author: Neko
