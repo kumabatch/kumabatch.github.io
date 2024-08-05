@@ -45,3 +45,6 @@ Chapter 11 - 30<br>
 
 Chapter 31 - 40<br>
 <a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106555602/kumabatch-msh1msp-chapter-31-40-zip">Acefile</a>
+
+Chapter 41 - 50<br>
+<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106594809/kumabatch-msh1msp-chapter-41-50-zip">Acefile</a> | <a href="http://ouo.io/qs/OzRuKBTK?s=https://drive.google.com/file/d/1AM1mbnH_NCD_as_cMkixYgS4u6j6WEUt/view?usp=sharing">Google Drive</a>
