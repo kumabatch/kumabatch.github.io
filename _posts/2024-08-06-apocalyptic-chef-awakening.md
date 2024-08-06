@@ -23,7 +23,7 @@ author: Neko
 | Artist | Jodol |
 | Rating | 7.00 |
 | Released | 2023 |
-| Credit  | Soul Scans |
+| Credit  | Soul Scans, Bato |
 
 <h2 style="background-attachment: initial; background-clip: initial; background-color: #e0e5eb; background-origin: initial; background-position: 12px 1px; background-repeat: no-repeat; background-size: initial; color: #222222; line-height: 22px; margin: 5px 0px; min-height: 38px; padding: 10px 12px 12px 68px; text-align: center;"> 
 Mohon Dibaca!</h2>
