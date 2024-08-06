@@ -41,3 +41,6 @@ Chapter 01 - 10<br>
 
 Chapter 11 - 20<br>
 <a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106551996/kumabatch-apo-caly-ptic-ch-ef-awa-ken-ing-chapter-01-10-zip">Acefile</a>
+
+Chapter 21 - 30<br>
+<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106607581/kumabatch-apo-caly-ptic-ch-ef-awa-ken-ing-chapter-21-30-zip">Acefile</a> | <a href="http://ouo.io/qs/OzRuKBTK?s=https://drive.google.com/file/d/1D_u19C8UmTusmpBmV-4qncstz9ojgTfc/view?usp=sharing">Google Drive</a>
