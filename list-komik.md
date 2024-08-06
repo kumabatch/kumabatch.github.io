@@ -30,6 +30,7 @@ title: List Komik
  
 ## T
  - [The Crazy Genius Composer Returns](https://kumabatch.github.io/the-crazy-genius-composer-returns-batch-bahasa-indonesia)
+ - [The Duchess' 50 Tea Recipes](https://kumabatch.github.io/the-duchess-50-tea-recipes-batch-bahasa-indonesia)
  - [The Heavenly Demon Will Give You a Massage](https://kumabatch.github.io/the-heavenly-demon-will-give-you-a-massage-batch-bahasa-indonesia)
  - [The Villainess Turns the Hourglass](https://kumabatch.github.io/the-villainess-turns-the-hourglass-batch-bahasa-indonesia)
 
