@@ -8,6 +8,9 @@ title: List Komik
 ## C
  - [Catastrophic Priest](https://kumabatch.github.io/catastrophic-priest-batch-bahasa-indonesia)
 
+## D
+ - [Doctor Elise: The Royal Lady With the Lamp](https://kumabatch.github.io/doctor-elise-the-royal-lady-with-the-lamp-batch-bahasa-indonesia)
+
 ## E
  - [Expelled Hero is Too Strong](https://kumabatch.github.io/expelled-hero-is-too-strong-batch-bahasa-indonesia)
 
