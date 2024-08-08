@@ -24,6 +24,7 @@ title: List Komik
  - [Magical Realm Shopkeeper](https://kumabatch.github.io/magical-realm-shopkeeper-batch-bahasa-indonesia)
  - [My Lover's Personality Is a Little Strange](https://kumabatch.github.io/my-lovers-personality-is-a-little-strange-batch-bahasa-indonesia)
  - [My Sect Is 100 Million Points Stronger](https://kumabatch.github.io/my-sect-has-100-million-strength-points-batch-bahasa-indonesia)
+ - [My Younger Sister Was a Genius](https://kumabatch.github.io/my-younger-sister-was-a-genius-batch-bahasa-indonesia)
 
 ## R
  - [Return of the Genius Player](https://kumabatch.github.io/return-of-genius-player-batch-bahasa-indonesia)
