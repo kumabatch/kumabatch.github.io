@@ -45,3 +45,33 @@ Chapter 11 - 20<br>
 
 Chapter 21 - 30<br>
 <a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106630876/kumabatch-htlaal-chapter-21-30-zip">Acefile</a> | <a href="http://ouo.io/qs/OzRuKBTK?s=https://drive.google.com/file/d/1CnzJO4Q1jXnDfWFPi2AmkGoulhmNuAfi/view?usp=sharing">Google Drive</a>
+
+Chapter 31 - 40<br>
+<a href="https://acefile.co/f/106641664/kumabatch-htlaal-chapter-31-40-zip">Acefile</a> | <a href="http://ouo.io/qs/OzRuKBTK?s=https://drive.google.com/file/d/1D5uZmSihWcpA-yw-G1iJ6aDd1XXd3mrX/view?usp=sharing">Google Drive</a>
+
+Chapter 41 - 50<br>
+<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106641685/kumabatch-htlaal-chapter-41-50-zip">Acefile</a> | <a href="https://drive.google.com/file/d/1DGBLD-3qSa8TU5DR1Bd8pnt7-Atqer8a/view?usp=sharing">Google Drive</a>
+
+Chapter 51 - 60<br>
+<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106641689/kumabatch-htlaal-chapter-51-60-zip">Acefile</a> | <a href="http://ouo.io/qs/OzRuKBTK?s=https://drive.google.com/file/d/1E-Y5qH6rULOSIhn8jO2i6IMblOsIO29-/view?usp=sharing">Google Drive</a>
+
+Chapter 61 - 70<br>
+<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106641723/kumabatch-htlaal-chapter-61-70-zip">Acefile</a> | <a href="http://ouo.io/qs/OzRuKBTK?s=https://drive.google.com/file/d/1G0F1pPW9F2FbtWNIxuff_oDano4ezImF/view?usp=sharing">Google Drive</a>
+
+Chapter 71 - 80<br>
+<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106641727/kumabatch-htlaal-chapter-71-80-zip">Acefile</a> | <a href="http://ouo.io/qs/OzRuKBTK?s=https://drive.google.com/file/d/1G7yvhYn4PK9Jw0F6MMYPQz61OlG1rmYv/view?usp=sharing">Google Drive</a>
+
+Chapter 81 - 90<br>
+<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106641736/kumabatch-htlaal-chapter-81-90-zip">Acefile</a> | <a href="http://ouo.io/qs/OzRuKBTK?s=https://drive.google.com/file/d/1GQflM03wPBYEvM5IJCx9YW7LVHkmfLg4/view?usp=sharing">Google Drive</a>
+
+Chapter 91 - 100<br>
+<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106641739/kumabatch-htlaal-chapter-91-100-zip">Acefile</a> | <a href="http://ouo.io/qs/OzRuKBTK?s=https://drive.google.com/file/d/1GXjrfeKvA4TtakAWFk4L0MnghOOL1iPA/view?usp=sharing">Google Drive</a>
+
+Chapter 101 - 110<br>
+<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106641774/kumabatch-htlaal-chapter-101-110-zip">Acefile</a> | <a href="http://ouo.io/qs/OzRuKBTK?s=https://drive.google.com/file/d/1Gds0iH-7Au-AoS9Bkq42pwH4PmCaa1H8/view?usp=sharing">Google Drive</a>
+
+Chapter 111 - 120<br>
+<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106641800/kumabatch-htlaal-chapter-111-120-zip">Acefile</a> | <a href="http://ouo.io/qs/OzRuKBTK?s=https://drive.google.com/file/d/1HAbN8E3JtwU3sVWfM4RgygKEaGDlWFA0/view?usp=sharing">Google Drive</a>
+
+Chapter 121 - 129 END Season 2<br>
+<a href="http://ouo.io/qs/OzRuKBTK?s=https://acefile.co/f/106641808/kumabatch-htlaal-chapter-121-129-zip">Acefile</a> | <a href="http://ouo.io/qs/OzRuKBTK?s=https://drive.google.com/file/d/1HI86qQOVXXRhY3BMg18kxJ4Pl2wT4pgJ/view?usp=sharing">Google Drive</a>
