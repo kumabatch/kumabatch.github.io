@@ -11,7 +11,7 @@ author: Neko
 
 
 
-**<em>kumabatch.eu.org | Download Batch Manhwa Regressor Instruction Manual Bahasa Indonesia –</em>**
+**<em>kumabatch.eu.org | Download Batch Manhwa Regressor Instruction Manual Bahasa Indonesia –</em>** Manhwa Regressor Instruction Manual yang dibuat oleh komikus bernama 흙수저 ini bercerita tentang Suatu hari, dia dipanggil ke dunia lain. Binatang buas mengalir keluar, dan krisis yang luar biasa akan datang. Bakat Anda ada di bawah. [Tingkat bakat pemain adalah yang terendah.] [Hampir semua angka putus asa.] Prajurit terpilih atau penyihir berbakat. Seorang regressor yang kembali ke masa lalu. Anda harus menggunakan semuanya. Untuk bertahan hidup. Panduan Pengguna Regressor "Bagaimana jika itu sampah? Apa yang tidak bisa Anda lakukan untuk bertahan hidup?"
 
 ## DETAIL KOMIK
 
