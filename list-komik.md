@@ -16,6 +16,7 @@ title: List Komik
 
 ## H
  - [Healing Life Through Camping in Another World](https://kumabatch.github.io/healing-life-through-camping-in-another-world-batch-bahasa-indonesia)
+ - [How to Live as a Lady](https://kumabatch.github.io/how-to-live-as-a-lady-batch-bahasa-indonesia)
 
 ## I
  - [I Created an Urban Legend!](https://kumabatch.github.io/i-created-an-urban-legend-batch-bahasa-indonesia)
